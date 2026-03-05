@@ -1,3 +1,5 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7B801&size=26&center=true&vCenter=true&width=900&lines=Data+Analyst;SQL+Queries+%26+Optimization;Python+for+Data+Science;Pandas+%7C+NumPy+%7C+Scikit-Learn;Dashboarding+and+Business+Insights)
+
 # About Me:
 I’m currently working on:<br>Building real-world data analysis projects using SQL and Python, including dashboards, EDA reports, and predictive models.<br><br> I’m looking to collaborate on:<br>Data analytics projects, open-source datasets, and machine learning model development.<br><br>🌱 I’m currently learning:<br>SQL (queries, joins, indexing), Python (Pandas, NumPy, Matplotlib), and Machine Learning (regression, classification, model evaluation).
 
