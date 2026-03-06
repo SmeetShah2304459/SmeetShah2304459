@@ -2,7 +2,10 @@
 
 
 # About Me:
-I’m currently working on:<br>Building real-world data analysis projects using SQL and Python, including dashboards, EDA reports, and predictive models.<br><br> I’m looking to collaborate on:<br>Data analytics projects, open-source datasets, and machine learning model development.<br><br> I’m currently learning:<br>SQL (queries, joins, indexing), Python (Pandas, NumPy, Matplotlib), and Machine Learning (regression, classification, model evaluation).
+I’m currently working on:<br>
+**Startup Funding Analysis** project using SQL, focused on exploring global investment trends across industries, investors, and regions. This project demonstrates the use of SQL for data cleaning, aggregation, and analytical querying to extract meaningful insights from funding data. It highlights how structured data analysis can be used to understand patterns within the startup ecosystem and support data-driven decision making.
+
+Building real-world data analysis projects using SQL and Python, including dashboards, EDA reports, and predictive models.<br><br> I’m looking to collaborate on:<br>Data analytics projects, open-source datasets, and machine learning model development.<br><br> I’m currently learning:<br>SQL (queries, joins, indexing), Python (Pandas, NumPy, Matplotlib), and Machine Learning (regression, classification, model evaluation).
 
 
 ## Socials:
