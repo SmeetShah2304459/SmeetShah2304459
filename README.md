@@ -4,6 +4,7 @@
 # About Me:
 I’m currently working on:<br>
 **Supply Chain Optimization using SQL**
+
 This project focuses on building a supply chain optimization system using SQL, involving database design, complex queries, and views. It analyzes key operations like inventory, orders, and supplier performance to generate insights and improve efficiency, cost management, and decision-making.
 
 
