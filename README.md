@@ -3,9 +3,7 @@
 
 # About Me:
 I’m currently working on:<br>
-**Supply Chain Optimization using SQL**
-
-This project focuses on building a supply chain optimization system using SQL, involving database design, complex queries, and views. It analyzes key operations like inventory, orders, and supplier performance to generate insights and improve efficiency, cost management, and decision-making.
+**I am currently working on a Customer Segmentation project using RFM (Recency, Frequency, Monetary) Analysis, leveraging SQL for data extraction and transformation and Tableau for interactive dashboards and visualization to uncover customer insights and support data-driven decision-making**
 
 
 Building real-world data analysis projects using SQL and Python, including dashboards, EDA reports, and predictive models.<br><br> I’m looking to collaborate on:<br>Data analytics projects, open-source datasets, and machine learning model development.<br><br> I’m currently learning:<br>SQL (queries, joins, indexing), Python (Pandas, NumPy, Matplotlib), and Machine Learning (regression, classification, model evaluation).
