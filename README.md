@@ -3,8 +3,8 @@
 
 # About Me:
 I’m currently working on:<br>
-**I'm currently working on: Cliniceo — a pharmacy management dashboard with barcode scanning, AI-powered product matching, and real-time inventory tracking.
-Built with vanilla HTML/Python/CSS/JS on the frontend and Node.js + Express on the backend.**
+**[FlipAnalytics — Flipkart Price Intelligence Dashboard]
+Upload a Flipkart product CSV and instantly get a full analytics dashboard — 12 interactive charts, discount intelligence, brand comparisons, category trends, and a live deal finder. Zero backend. Zero setup. Single HTML file.**
 
 
 Building real-world data analysis projects using SQL and Python, including dashboards, EDA reports, and predictive models.<br><br> I’m looking to collaborate on:<br>Data analytics projects, open-source datasets, and machine learning model development.<br><br> I’m currently learning:<br>SQL (queries, joins, indexing), Python (Pandas, NumPy, Matplotlib), and Machine Learning (regression, classification, model evaluation).
