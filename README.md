@@ -4,7 +4,7 @@
 # About Me:
 I’m currently working on:<br>
 **[FlipAnalytics — Flipkart Price Intelligence Dashboard]
-Upload a Flipkart product CSV and instantly get a full analytics dashboard — 12 interactive charts, discount intelligence, brand comparisons, category trends, and a live deal finder. Zero backend. Zero setup. Single HTML file.**
+Upload a Flipkart product CSV and instantly get a full analytics dashboard — 12 interactive charts, discount intelligence, brand comparisons, category trends, and a live deal finder.**
 
 
 Building real-world data analysis projects using SQL and Python, including dashboards, EDA reports, and predictive models.<br><br> I’m looking to collaborate on:<br>Data analytics projects, open-source datasets, and machine learning model development.<br><br> I’m currently learning:<br>SQL (queries, joins, indexing), Python (Pandas, NumPy, Matplotlib), and Machine Learning (regression, classification, model evaluation).
