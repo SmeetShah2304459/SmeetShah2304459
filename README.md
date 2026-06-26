@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0E75B6&size=28&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Smeet+Shah;Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Machine+Learning;Turning+Data+Into+Insights;Always+Learning+%F0%9F%93%8A)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0E75B6&size=28&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Smeet+Shah;Aspiring+Data+Analyst;SQL+%7C+Python;Turning+Data+Into+Insights;Always+Learning+%F0%9F%93%8A)
 
 
 # About Me:
