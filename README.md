@@ -22,7 +22,7 @@ Building real-world data analysis projects using SQL and Python, including dashb
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SmeetShah2304459&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=your_username)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SmeetShah2304459)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### 🔝 Top Contributed Repo
